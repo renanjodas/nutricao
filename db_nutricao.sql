@@ -1,4 +1,4 @@
-/*Cria um banco de dados de raças de cachorros*/
+/*Cria um banco de dados*/
 create database DB_NUTRICAO;
 
 /*apresenta todos os bancos existentes*/
